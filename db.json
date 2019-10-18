@@ -90,6 +90,18 @@
       "lookingForAJob": false
     },
     {
+      "name": "Clément Bouakil",
+      "icon": "https://ca.slack-edge.com/T6SG2QGG2-UJELFCVNY-e0268867ea23-512",
+      "jobs": [
+        {
+          "company": "Innovhealth",
+          "description": "L'objectif d'InnovHealth est que le patient devienne acteur de sa santé et ce, grâce aux nouvelles technologies digitales. InnovHealth développe ainsi pour le patient un passeport santé numérique connecté à une plateforme interactive de communication et de partage sécurisé de l'information médicale en vie réelle afin qu'il puisse maîtriser la gestion globale de sa santé et bénéficier d'un outil de prévention.",
+          "address": "21 Rond-point de l'Europe, 51430 Bezannes"
+        }
+      ],
+      "lookingForAJob": false
+    },
+    {
       "name": "Stéphane Thomin",
       "icon": "https://raw.githubusercontent.com/RemyTrohel/WildersBook/master/IMG/stephaneThomin-350x350.jpg",
       "jobs": [
