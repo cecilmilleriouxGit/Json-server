@@ -125,7 +125,19 @@
       ],
       "lookingForAJob": false
     },
+    {
+      "name": "Carole Chevalier",
+      "icon": "https://wild4ever.slack.com/files/UJ8LSR8GZ/FP6MYL867/carolechevalier.jpg",
+      "jobs": [
         {
+          "company": "Ezyperf",
+          "description": "Ezyperf accompagne les entreprises afin de développer leurs performances en leur apportant des outils numériques tels que des applications ou des logiciels de calcul",
+          "address": "6 Rue de Saint Brice, 51100 Reims"
+        }
+      ],
+      "lookingForAJob": false
+    },
+    {
       "name": "Nicolas Huraux",
       "icon": "https://avatars2.githubusercontent.com/u/50239473?s=460&v=4",
       "jobs": [
