@@ -124,6 +124,18 @@
         }
       ],
       "lookingForAJob": false
+    },
+        {
+      "name": "Nicolas Huraux",
+      "icon": "https://avatars2.githubusercontent.com/u/50239473?s=460&v=4",
+      "jobs": [
+        {
+          "company": "Ezyperf",
+          "description": "Au coeur de <a href=\"https://quartierlibre.co/\">Quartier Libre</a> Ezyperf apporte des solutions aux entreprises.",
+          "address": "6 rue de Saint-Brice, 51100 Reims"
+        }
+      ],
+      "lookingForAJob": true
     }
   ],
   "profile": {
