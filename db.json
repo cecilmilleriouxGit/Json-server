@@ -160,6 +160,18 @@
         }
       ],
       "lookingForAJob": true
+    },
+    {
+      "name": "Anthony Lefevre",
+      "icon": "https://raw.githubusercontent.com/clementbouakil/WildersBook/master/IMG/anthonyLefevre-350x350.jpg",
+      "jobs": [
+        {
+          "company": "Black Moon Lab",
+          "description": "Black Moon Lab est une startup rémoise qui développe des solutions numériques pour l’évènementiel.",
+          "address": "30 Rue Cérès, 51100 Reims"
+        }
+      ],
+      "lookingForAJob": false
     }
   ],
   "profile": {
