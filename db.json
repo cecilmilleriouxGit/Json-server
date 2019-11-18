@@ -184,6 +184,18 @@
         }
       ],
       "lookingForAJob": false
+    },
+     {
+      "name": "Cécil Millerioux",
+      "icon": "",
+      "jobs": [
+        {
+          "company": "CSM SI - La Poste",
+          "description": "La Poste est une entreprise française principalement en tant qu'opérateur de services postaux, banque, assurance, mais également dans une moindre mesure en tant qu'opérateur de téléphonie mobile, fournisseur de services numériques et de solutions commerce, commerce en ligne et collecte et vente de données.",
+          "address": "5 rue Cosme CLause, 51000 Châlons-en-Champagne"
+        }
+      ],
+      "lookingForAJob": true
     }
   ],
   "profile": {
